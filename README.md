@@ -36,7 +36,7 @@ _Immutable Identity • Version Control • On-Chain Reputation_
 
 - **🔐 PDA Identity**: Agents generate deterministic addresses based on their creator's signature (`b"agent" + authority`).
 - **📜 Version Ledger**: Immutable history of model versions (e.g., `v1.0` -> `v2.1`), preventing rollback attacks.
-- **⚡ Status Control**: Real-time "Kill Switch" for authorized operators to deactivate compromised agents instantly.
+- **⚡ Status Control**: Real-time "Kill Switch" for authorized operators to deactivate compromised agents instantl
 
 ---
 
